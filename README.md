@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Pizzarous
+- 👋 Hi, I’m @Angelo
 - 👀 I’m interested in learning more
-- 🌱 I’m currently learning fullstack basics
+- 🌱 Currently a Junior at Fullstack Developing!
 
 <!---
 Pizzarous/Pizzarous is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
