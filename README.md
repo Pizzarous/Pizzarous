@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @Angelo
-- 👀 I’m interested in learning more
-- 🌱 Currently a Junior at Fullstack Developing!
+# Hey there!
 
-<!---
-Pizzarous/Pizzarous is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is Ângelo. I'm a Salesforce and Fullstack developer who loves building things and making them look pretty with some Frontend magic and CSS.
+
+I'm always looking to learn and improve, and I'm excited to be a part of the GitHub community. Don't be a stranger – drop me a message and let's chat! 😄
+
+## Skills
+
+- Salesforce development
+- Fullstack development
+- Frontend development
+
+## Emojis
+
+- 💻 for code
+- 🚀 for projects
+- 🔥 for passion
+- 🍕 because pizza is life
