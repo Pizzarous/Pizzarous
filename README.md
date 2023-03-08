@@ -7,12 +7,12 @@ I'm always looking to learn and improve, and I'm excited to be a part of the Git
 ## Skills
 
 - Salesforce development
-- Fullstack development
 - Frontend development
+- Fullstack development
 
 ## Emojis
 
 - 💻 for code
 - 🚀 for projects
 - 🔥 for passion
-- 🍕 because pizza is life
+- 🍕 for pizza
